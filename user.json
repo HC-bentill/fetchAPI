@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Charles", "last": "Hirschmann" },
+      "location": {
+        "street": { "number": 7187, "name": "Lindenweg" },
+        "city": "Osnabrück",
+        "state": "Brandenburg",
+        "country": "Germany",
+        "postcode": 80861,
+        "coordinates": { "latitude": "-44.2449", "longitude": "-91.5940" },
+        "timezone": {
+          "offset": "-6:00",
+          "description": "Central Time (US & Canada), Mexico City"
+        }
+      },
+      "email": "charles.hirschmann@example.com",
+      "login": {
+        "uuid": "253b9a3c-56d3-4c57-8f41-206a0a0fa7aa",
+        "username": "goldenbutterfly257",
+        "password": "young",
+        "salt": "uy1mVtBW",
+        "md5": "f1e9dc19a5251ffbecb523aa4abb9860",
+        "sha1": "8c56f9824bfab7bfad3bc328ac00e95464c7bab2",
+        "sha256": "81ffac5d51cd9ee994a89233166ddce97f855f74acbe935ff89ff2cc65f948c3"
+      },
+      "dob": { "date": "1946-05-20T12:56:15.848Z", "age": 75 },
+      "registered": { "date": "2009-03-31T20:30:43.774Z", "age": 12 },
+      "phone": "0060-9646690",
+      "cell": "0179-7780958",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/67.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
+      },
+      "nat": "DE"
+    }
+  ],
+  "info": {
+    "seed": "3562ab60e2a9872f",
+    "results": 1,
+    "page": 1,
+    "version": "1.3"
+  }
+}
